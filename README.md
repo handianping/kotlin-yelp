@@ -1,6 +1,6 @@
 # kotlin-yelp
 
-This is a Yelp app written in Kotlin, demostrating
+This is a Yelp app written in Kotlin, demonstrating
  - Retrofit to retrieve data through Yelp api
  - MVVM and LiveData to show data
  - Navigation Controller to navigate between fragments
